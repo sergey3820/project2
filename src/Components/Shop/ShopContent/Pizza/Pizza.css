@@ -1,0 +1,63 @@
+.pizza_wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10%;
+}
+
+.pizza_name_wrapper {
+    display: flex;
+    width: 30%;
+    justify-content: space-between;
+}
+
+.pizzasCount_wrapper {
+    display: flex;
+    align-items: center;
+    width: 10%;
+    justify-content: space-between;
+}
+
+.minus_btn, .plus_btn {
+   padding: 1px 5px;
+   border-radius: 50px;
+   outline: none;
+   cursor: pointer;
+   border: 2px solid #FE5F1E;
+   color: #FE5F1E;
+   font-size: 18px;
+}
+
+.pizzas_count {
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.pizzas_cost {
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.delete {
+    font-size: 25px;
+    color: gray;
+}
+
+.pizzas_name {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.deletePizza {
+    background: none;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+
+.deleteBtn {
+    border: none;
+    outline: none;
+    background: none;
+    cursor: pointer;
+}

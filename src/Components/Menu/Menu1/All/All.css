@@ -1,0 +1,181 @@
+.All_wrapper {
+   max-width: 90%;
+   width: 100%;
+   margin: 0 auto;
+   margin-top: 2%;
+}
+
+.all_title {
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 1%;
+    color: #000000;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.weight_wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.small_btn {
+    padding: 5px 40px;
+    background: none;
+    border: none;
+    font-weight: 700;
+    font-size: 14px;
+    outline: none;
+    cursor: pointer;
+    border-radius: 10px 10px;
+}
+
+.big_btn {
+    padding: 5px 20px;
+    background: none;
+    border: 1px solid white;
+    font-weight: 700;
+    font-size: 14px;
+    outline: none;
+    cursor: pointer;
+    border-radius: 10px 10px;
+}
+
+.typeBtn {
+   background: gray;
+   border: 1px solid white;
+   font-weight: 700;
+   font-size: 14px;
+   padding: 5px 40px;
+   outline: none;
+   cursor: pointer;
+   border-radius: 10px 10px;
+}
+
+.typeBtn2 {
+    background: gray;
+    border: 1px solid white;
+    font-weight: 700;
+    font-size: 14px;
+    padding: 5px 20px;
+    outline: none;
+    cursor: pointer;
+    border-radius: 10px 10px;
+}
+
+.pizza_param {
+    padding: 3% 2%;
+    margin-top: 10%;
+    background: #f2f2f2;
+}
+
+.pizza_size {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2%;
+}
+
+.pizza_size > button {
+    
+}
+
+.price_wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 6%;
+}
+
+.price {
+    font-size: 27px;
+    font-weight: 700;
+    letter-spacing: 1.5%;
+}
+
+.add_btn {
+    padding: 10px 25px;
+    border-radius: 30px;
+    border: 1px solid #EB5A1E;
+    background: white;
+    font-weight: bold;
+    color: #EB5A1E;
+    font-size: 16px;
+    line-height: 20px;
+    outline: none;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.add_btn:hover {
+    background: #EB5A1E;
+    color: white;
+    transition: 0.5s ease;
+}
+
+.added {
+    font-size: 13px;
+    line-height: 16px;
+    color: white;
+    background: #EB5A1E;
+    padding: 4px 9px;
+    text-align: center;
+    border-radius: 50%;
+    outline: none;
+}
+
+
+
+.countNone {
+    display: none;
+}
+
+.smallSelect {
+    background: red;
+    border: 1px solid red;
+    padding: 5px 23px;
+    font-size: 17px;
+    outline: none;
+    font-weight: 700;
+    letter-spacing: 1.5%;
+    cursor: pointer;
+    border-radius: 10px 10px;
+}
+
+
+.smallest_btn {
+    padding: 5px 23px;
+    font-size: 17px;
+    border: 1px solid white;
+    outline: none;
+    background-color: white;
+    font-weight: 700;
+    letter-spacing: 1.5%;
+    cursor: pointer;
+    border-radius: 10px 10px;
+}
+
+.medium_btn {
+    padding: 5px 23px;
+    font-size: 17px;
+    border: 1px solid white;
+    outline: none;
+    background-color: white;
+    font-weight: 700;
+    letter-spacing: 1.5%;
+    cursor: pointer;
+    border-radius: 10px 10px;
+}
+
+.biger_btn {
+    padding: 5px 23px;
+    font-size: 17px;
+    border: 1px solid white;
+    outline: none;
+    background-color: white;
+    font-weight: 700;
+    letter-spacing: 1.5%;
+    cursor: pointer;
+    border-radius: 10px 10px;
+}

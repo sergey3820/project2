@@ -1,0 +1,25 @@
+.Menu1Item_wrapper {
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 1.5%;
+    text-align: center;
+    outline: none;
+    color: #2C2C2C;
+    border: none;
+    line-height: 20px;
+}
+
+.Menu1Item_btn_active {
+    color: red;
+    font-weight: bold;
+}
+
+.Menu1Item_wrapper {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+}
+
+.navLink {
+    text-decoration: none;
+}

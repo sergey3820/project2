@@ -1,0 +1,15 @@
+.Menu1_wrapper {
+    max-width: 60%;
+    width: 100%;
+}
+
+.Menu1_wrapper_ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.Menu1_wrapper_ul > li {
+    list-style-type: none;
+}

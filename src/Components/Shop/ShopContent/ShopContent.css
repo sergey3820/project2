@@ -1,0 +1,95 @@
+.shopContent_wrapper {
+    max-width: 70%;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 10%;
+    padding-bottom: 10%;
+}
+
+.korzina_wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.korzina, .clean_korzina {
+    display: flex;
+    align-items: center;
+}
+
+.clean_text {
+    font-size: 14px;
+}
+
+.clean_korzina {
+    min-width: 20%;
+}
+
+.korzina_text, .clean_text {
+    margin-left: 10%;
+}
+
+.final_wrapper {
+    margin-top: 7%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.count {
+    font-size: 22px;
+}
+
+.countBold {
+    font-weight: bold;
+}
+
+.order_txt {
+    font-size: 22px;
+}
+
+.orange_order {
+    color: #FE5F1E;
+    font-weight: 700;
+}
+
+.shopBtn_wraper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 5%;
+}
+
+.shopBtn_wraper > button {
+    border-radius: 50px;
+    padding: 10px 35px;
+    outline: none;
+    cursor: pointer;
+}
+
+.backBtn {
+    background: none;
+    border: 1px solid gray;
+    color: gray;
+    border-radius: 25px;
+    padding: 10px 35px;
+}
+
+.payBtn {
+    background-color: #FE5F1E;
+    color: white;
+    border: 1px solid #FE5F1E;
+}
+
+.shopping {
+    font-size: 25px;
+}
+
+.korzina_text {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.clean_text {
+    cursor: pointer;
+}

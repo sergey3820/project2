@@ -1,0 +1,44 @@
+.shop_wrapper {
+    border: 1px solid black;
+    max-width: 80%;
+    width: 100%;
+    left: 10%;
+    top: 10%;
+    padding: 2.5% 3%;
+    position: absolute;
+    background: white;
+    -webkit-box-shadow: 0px 0px 50px 0px #F5FF04; 
+box-shadow: 0px 0px 50px 0px #F5FF04;
+}
+
+.shop1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 23%;
+    width: 100%;
+    border: 1px solidred;
+}
+
+.shop_title {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 50%;
+}
+
+.shop {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.closeBtn {
+    background: none;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+
+.close_icon {
+    font-size: 30px;
+}

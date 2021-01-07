@@ -1,0 +1,84 @@
+.header_wrapper {
+    max-width: 90%;
+    margin: 0 auto;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header1 {
+    display: flex;
+    width: 19%;
+    align-items: center;
+     justify-content: space-between;
+}
+
+.header_title {
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: 1%;
+}
+
+.header_text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+
+.header2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 30px;
+    background: #FE5F1E;
+    padding: 1% 1%;
+    width: 12%;
+}
+
+.header_shop_btn {
+    display: flex;
+    align-items: center;
+}
+
+.header_money_btn {
+   padding-left: 5%;
+   padding-right: 25%;
+   border: none;
+   background: #FE5F1E;
+   border-right: 2px solid white;
+   outline: none;
+   cursor: pointer;
+   font-weight: 700;
+   font-size: 16px;
+   line-height: 20px;
+   color: white;
+}
+
+.header_shop_btn {
+    padding-left: 10%;
+    padding-right: 10%;
+    border: none;
+    background: #FE5F1E;
+    outline: none;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: white;
+}
+
+.shop_ship {
+    text-decoration: none;
+}
+
+.money_url {
+    text-decoration: none;
+    color: red;
+}
+
+a {
+    text-decoration: none;
+}

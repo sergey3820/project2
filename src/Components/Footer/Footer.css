@@ -1,0 +1,32 @@
+.footer_wrapper {
+    border-top: 1px solid black;
+    padding: 30px 20px;
+}
+
+.footer_content {
+    width: 18%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.footer_title {
+    font-size: 20px;
+}
+
+.footer_b {
+    max-width: 95%;
+    margin: 0 auto;
+}
+
+.reac_span {
+   font-weight: bold;
+   color: darkblue;
+}
+
+
+.autor_text {
+
+    font-size: 18px;
+}
